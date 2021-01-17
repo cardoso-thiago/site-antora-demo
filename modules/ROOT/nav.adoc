@@ -1,1 +1,3 @@
-* xref:main.adoc[Página Principal] 
+* xref:main.adoc[Página Principal]
+* xref:produto_a.adoc[Produto A]
+** xref:produto_a/produto_a_caracteristicas.adoc[Características Produto A]

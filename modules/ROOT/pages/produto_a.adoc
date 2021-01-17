@@ -1,0 +1,3 @@
+= Produto A
+
+Essa é a página principal do *Produto A*. 
