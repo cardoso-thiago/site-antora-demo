@@ -3,3 +3,4 @@
 ** xref:produto_a/produto_a_caracteristicas.adoc[Características do Produto A]
 * xref:produto_b.adoc[Produto B]
 ** xref:produto_b/produto_b_caracteristicas.adoc[Características do Produto B]
+** xref:produto_b/produto_b_link_para_produto_a.adoc[Link para Produto A]
