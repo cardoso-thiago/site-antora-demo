@@ -1,0 +1,3 @@
+= Características do Produto B
+
+Esse é um exemplo de uma sub página referenciada à página principal do *Produto B*.
