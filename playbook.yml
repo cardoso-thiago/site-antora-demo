@@ -4,7 +4,7 @@ site:
 content:
   sources:
   - url: https://github.com/cardoso-thiago/site-antora-demo.git
-    branches: [0.0.1, 0.0.2]
+    branches: [0.0.1]
 output:
   dir: ./docs
 ui:
