@@ -1,0 +1,5 @@
+= Página da Versão 0.0.2
+
+Essa página é nova para a versão 0.0.2 e foi criada para exemplificar o versionamento da documentação. No arquivo `playbook.yml` na base do projeto, foram informadas as branchs correspondentes à versão *0.0.1 e 0.0.2*.
+
+A visualização da documentação pode ser alteranda entre as versões no canto inferior esquerdo.
