@@ -1,0 +1,5 @@
+= Link para Produto A
+
+Esse é um exemplo de como fazer um link direto à uma outra página. Para mais informações sobre esse produto, verifique a página principal do xref:produto_a.adoc[Produto A].
+
+Para verificar as características do *Produto A*, visite a página xref:produto_a/produto_a_caracteristicas.adoc[Características do Produto A].
