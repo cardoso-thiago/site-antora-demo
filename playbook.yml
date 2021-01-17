@@ -8,4 +8,9 @@ content:
 ui:
   bundle:
     url: theme/ui-bundle.zip
-    snapshot: true 
+    snapshot: true
+  supplemental_files:
+    - path: ui.yml
+      contents: |
+        static_files: [ .nojekyll ]
+    - path: .nojekyll
