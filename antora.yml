@@ -1,0 +1,6 @@
+name: main
+title: Página Principal
+version: 0.0.1
+start_page: ROOT:main.adoc
+nav:
+- modules/ROOT/nav.adoc
