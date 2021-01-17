@@ -1,0 +1,13 @@
+site:
+  title: Demo Antora Docs
+  start_page: main::main.adoc
+content:
+  sources:
+  - url: https://github.com/cardoso-thiago/site-antora-demo.git
+    branches: main
+    # branches: [v2.0, v1.0]
+    # start_path: docs
+ui:
+  bundle:
+    url: theme/ui-bundle.zip
+    snapshot: true 

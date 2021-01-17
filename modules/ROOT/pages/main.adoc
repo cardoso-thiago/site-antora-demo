@@ -1,0 +1,5 @@
+== Página Principal
+
+Essa é a página principal da documentação. As demais páginas podem ser adicionadas no arquivo `nav.adoc` para que sejam incluídas na barra de navegação.
+
+O arquivo de encontra em `/modules/ROOT/nav.adoc`
